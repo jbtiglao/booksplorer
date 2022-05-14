@@ -1,4 +1,4 @@
-# Booksplorer
+# Booksplorer (Book Search Engine)
 [Unit 21 MERN: Book Search Engine Assignment]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
