@@ -7,7 +7,7 @@
 
   ---
   ## Description
-This is a single-page deployed portfolio that showcases the author's newly-acquired React skills and work samples.  
+This is a book search engine with a starter code that consists of a fully functioning Google Books API search engine built with a RESTful API refactored into a GraphQL API built with Apollo server.  The application is built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. The application is set up to allow users to save book searches to the back end. 
 
 [A deployed version can be viewed here.]()
 
